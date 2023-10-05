@@ -1,7 +1,6 @@
 body {
-  /* background-color: #2b2b2b; */
-  /* background-image: url("~/img/brbackground.jpg"); */
-  /* background-image: url(https://images.unsplash.com/photo-1579027989536-b7b1f875659b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2970&q=80); */
+  background-color: #2b2b2b;
+  /* background-image: url("../img/brbackground.jpg"); */
   color: aqua;
 }
 
@@ -11,7 +10,7 @@ div#footer {
   left:0px;
   width:100%;
   color:#CCC;
-  background:#333;
+  background:#3333339d;
   padding:8px;
 }
 
